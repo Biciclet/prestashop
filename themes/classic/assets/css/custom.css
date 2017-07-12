@@ -1,0 +1,74 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+#wrapper{
+  background-color: white;
+  /*margin-left: 15%;
+  margin-right: 10%;*/
+  padding-left: 21%;
+  padding-right: 15%;
+}
+
+#search_widget{
+  margin-left: 25%;
+}
+
+.col-lg-8{
+  width: 100%;
+  }
+
+a.dropdown-item:hover{
+  border-bottom: 2px solid grey;
+  padding-bottom: 1px;
+}
+
+/*section*/
+#wrapper{
+  /*background-color: lime;*/
+  background-image: url(OLS51K0.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-top: 5%;
+}
+
+
+#_desktop_logo{
+  padding-top: 7%;
+  margin-top: -16%;
+  margin-left: 40%;
+}
+
+#search_widget{
+  /*background-color: lime;*/
+  margin-top: -10%;
+  margin-right: -25%;
+}
+
+a.all-product-link.pull-xs-left.pull-md-right.h4{
+  color: rgb(65,65,65);
+}
+
+/*.col-md-6{
+  background-color: lime;
+}*/
+
+/*.product-information{
+  background-color: lime;
+}*/
+
+#wrapper .container{
+  /*background-color: white;*/
+  background-color: rgb(236,227,220);
+  border-radius: 15px;
+  /*margin-bottom: 2%;*/
+}
+
+h1.h1.products-section-title.text-uppercase{
+  padding-top: 2%;
+}
+/*#footer.container{
+  margin-top: 5%;
+}*/

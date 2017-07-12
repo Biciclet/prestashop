@@ -1,0 +1,13 @@
+1499791036
+s:1334:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 11 Jul 2017 14:35:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1023
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22321","name":"ps_mainmenu","displayName":"Main menu","categoryName":"Natif","description":"Adds a new menu to the top of your e-commerce website","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=22321?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22321.jpg","fullDescription":"Adds a new menu to the top of your e-commerce website.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"2.0.2","last_update":"2017-07-11 04:57:04","compatibility":{"from":"1.7.1.0","to":"1.7.1.2"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/-pprod\/.jpg","big":"https:\/\/medias2.prestastore.com\/-pbig\/.jpg"}}]}";
