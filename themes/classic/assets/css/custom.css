@@ -24,7 +24,7 @@ a.dropdown-item:hover{
   padding-bottom: 1px;
 }
 
-/*section*/
+
 #wrapper{
   /*background-color: lime;*/
   background-image: url(OLS51K0.jpg);
@@ -34,6 +34,9 @@ a.dropdown-item:hover{
   margin-top: 5%;
 }
 
+.container ol{
+  padding-top: 15px;
+}
 
 #_desktop_logo{
   padding-top: 7%;
@@ -69,6 +72,7 @@ a.all-product-link.pull-xs-left.pull-md-right.h4{
 h1.h1.products-section-title.text-uppercase{
   padding-top: 2%;
 }
-/*#footer.container{
-  margin-top: 5%;
-}*/
+
+#footer{
+  margin-top: 5px;
+}
